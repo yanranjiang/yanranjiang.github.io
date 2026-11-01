@@ -1,0 +1,54 @@
+{
+  "id": "524207ffa3d3e78448cb",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_spatial",
+    "source": 0,
+    "state": 4,
+    "phase": "Saved progress state",
+    "metrics": {
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "destination": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "target": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": null,
+    "alignment": "SUMMARY_ONLY",
+    "context": {
+      "original": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction": "pick up the black bowl between the plate and the ramekin and place it on the stove",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Destination: same between-bowl, plate -> stove.",
+      "timing": "Saved boundary: after 29 original-prefix actions; phase: not recorded. Branch instruction applies before continuation action 1.",
+      "boundary": 29,
+      "preparation_actions": 0,
+      "total_before_continuation": 29,
+      "budget": 300,
+      "source": 0,
+      "suite": "libero_spatial",
+      "arm": "state4_destination_revision",
+      "reference": false,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/524207ffa3d3e78448cb.json"
+  },
+  "hashes": {
+    "terminal_sha256": "2ee70af216ff63f7aa9347ec0641c4ec37aa2ed8548d205d106ce117f27ba344",
+    "video_sha256": "2c3722cee034dc633bdd1f457cf16f3fdf8f9e8f96392fe499fedbaffd350e7c",
+    "trace_sha256": null
+  }
+}

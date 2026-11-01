@@ -1,0 +1,19 @@
+{
+  "id": "a749e326cd0a7ecbe49e",
+  "status": "READY",
+  "scope": "Sanitized comparison receipt; private paths omitted.",
+  "video_sha256": "f27cc084dac1fb1d271510171a7139a76fb21fea2e8edbdbb9a2df2b7c8b5703",
+  "left": "/dtu-bench/evidence/df91fbe37d26cf641ad2.json",
+  "right": "/dtu-bench/evidence/c0218a02187a57fe2dfe.json",
+  "boundary_verification": "Same saved parent; right adds duration-matched hold. Post-hold state can differ.",
+  "exact_alignment": [
+    true,
+    true
+  ],
+  "has_prefix": false,
+  "prefix_actions": null,
+  "preparation": 0,
+  "fps": 10,
+  "presentation_freeze_frames": 30,
+  "version": "paired-diagnostics-v3"
+}

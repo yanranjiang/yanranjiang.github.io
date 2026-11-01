@@ -1,0 +1,19 @@
+{
+  "id": "posture-5-intervention-posture",
+  "status": "READY",
+  "scope": "Sanitized comparison receipt; private paths omitted.",
+  "video_sha256": "75311b220787108ce359323d2db1758f43f64c0a6caddc3b54849a6ebdb83a0c",
+  "left": "/dtu-bench/evidence/53f4705e237204590cc4.json",
+  "right": "/dtu-bench/evidence/08d42cb10cf7bf604a0c.json",
+  "boundary_verification": "Paired within the same posture condition; original and neutral postures differ.",
+  "exact_alignment": [
+    true,
+    true
+  ],
+  "has_prefix": true,
+  "prefix_actions": 39,
+  "preparation": 0,
+  "fps": 10,
+  "presentation_freeze_frames": 30,
+  "version": "before-update-after-v3-posture-description"
+}

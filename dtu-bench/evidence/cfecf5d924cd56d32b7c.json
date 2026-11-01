@@ -1,0 +1,54 @@
+{
+  "id": "cfecf5d924cd56d32b7c",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_10",
+    "source": 9,
+    "state": 1,
+    "phase": "late",
+    "metrics": {
+      "original": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "revised": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "white_yellow_mug_1"
+      ],
+      "action": 1
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the yellow and white mug in the microwave and close it",
+      "instruction": "Put the yellow and white mug in the microwave and leave the microwave open.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Final state: close -> leave open; preserve the object placement requirement.",
+      "timing": "Saved boundary: after 111 original-prefix actions; phase: late / transport. Branch instruction applies before continuation action 1.",
+      "boundary": 111,
+      "preparation_actions": 0,
+      "total_before_continuation": 111,
+      "budget": 300,
+      "source": 9,
+      "suite": "libero_10",
+      "arm": "revised",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/cfecf5d924cd56d32b7c.json"
+  },
+  "hashes": {
+    "terminal_sha256": "b13e69548e6df24e3499c9388dfec1e9f077f174f6d242ab8b6ebabc925c88ac",
+    "video_sha256": "9eb3accda842357a3d6d239aa5599adf755ca219f29366db2bf1de467cbe9dee",
+    "trace_sha256": "dd62e779c9f82ee23f26c1a682c3136f4482942d9a0cc049e559428e3c9cf1bf"
+  }
+}

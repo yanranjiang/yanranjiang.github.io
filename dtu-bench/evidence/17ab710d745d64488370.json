@@ -1,0 +1,59 @@
+{
+  "id": "17ab710d745d64488370",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_goal",
+    "source": 4,
+    "state": 5,
+    "phase": "approach",
+    "metrics": {
+      "destination": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "object": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "original": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "akita_black_bowl_1"
+      ],
+      "action": 8
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the bowl on top of the cabinet",
+      "instruction": "put the bowl on top of the cabinet",
+      "instruction_label": "Branch instruction (unchanged control)",
+      "change": "No task switch: original-instruction control.",
+      "timing": "Saved boundary: after 21 original-prefix actions; phase: approach. Branch instruction applies before continuation action 1.",
+      "boundary": 21,
+      "preparation_actions": 0,
+      "total_before_continuation": 21,
+      "budget": 300,
+      "source": 4,
+      "suite": "libero_goal",
+      "arm": "original",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/17ab710d745d64488370.json"
+  },
+  "hashes": {
+    "terminal_sha256": "88b143de21c0031be567e46eab2fea445cef91400691084c49c4b86fe38162f0",
+    "video_sha256": "c9bab7cfff3e5ab40c22c5a49995372a60122c29769ebf087a74cc939a38e2c5",
+    "trace_sha256": "6ee6bfce4d64c2f85a2e7c53c1584aab28d1b8e870a0a9361e884916e7deee29"
+  }
+}

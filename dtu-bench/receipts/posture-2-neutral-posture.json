@@ -1,0 +1,19 @@
+{
+  "id": "posture-2-neutral-posture",
+  "status": "READY",
+  "scope": "Sanitized comparison receipt; private paths omitted.",
+  "video_sha256": "465d95373c6e99b04c13cd995fb4f33fdddef7c83b1d20f0f5bf7a6a6534f71f",
+  "left": "/dtu-bench/evidence/c59cba4ca7b6a7779442.json",
+  "right": "/dtu-bench/evidence/e6b74a0620cfddb83e37.json",
+  "boundary_verification": "Paired within the same posture condition; original and neutral postures differ.",
+  "exact_alignment": [
+    true,
+    true
+  ],
+  "has_prefix": true,
+  "prefix_actions": 44,
+  "preparation": 60,
+  "fps": 10,
+  "presentation_freeze_frames": 30,
+  "version": "before-update-after-v3-posture-description"
+}

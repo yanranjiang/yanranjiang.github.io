@@ -1,0 +1,19 @@
+{
+  "id": "ee2fdee3152d326cc7bb",
+  "status": "READY",
+  "scope": "Sanitized comparison receipt; private paths omitted.",
+  "video_sha256": "bac0a0b7b348a009033d4103fa881e0e9741f5b6fe28f48c1e22089b76a063d6",
+  "left": "/dtu-bench/evidence/3e22b4ff72384c21a731.json",
+  "right": "/dtu-bench/evidence/6d7cee6f01e8c45dc9e0.json",
+  "boundary_verification": "Paired by recorded study/source/state/phase; inspect source receipts for restoration evidence.",
+  "exact_alignment": [
+    false,
+    false
+  ],
+  "has_prefix": false,
+  "prefix_actions": null,
+  "preparation": 0,
+  "fps": 10,
+  "presentation_freeze_frames": 30,
+  "version": "paired-diagnostics-v3"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "b52c0d21981116f37036",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_10",
+    "source": 0,
+    "state": 1,
+    "phase": "Saved progress state",
+    "metrics": {
+      "full": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "requested_order": {
+        "ever": null,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "alphabet_soup_1"
+      ],
+      "action": 53
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put both the alphabet soup and the tomato sauce in the basket",
+      "instruction": "First put the tomato sauce in the basket, then put the alphabet soup in the basket.",
+      "instruction_label": "Instruction from start",
+      "change": "Order: soup then tomato -> tomato then soup.",
+      "timing": "Instruction supplied from initial action 0; no mid-episode injection.",
+      "boundary": 0,
+      "preparation_actions": 0,
+      "total_before_continuation": 0,
+      "budget": 550,
+      "source": 0,
+      "suite": "libero_10",
+      "arm": "reverse_start",
+      "reference": false,
+      "invalid": false,
+      "from_start": true,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/b52c0d21981116f37036.json"
+  },
+  "hashes": {
+    "terminal_sha256": "3920210208b0d1f97967f8488d094d9697a9b0eb7bb77bc5c6ea25afdc033433",
+    "video_sha256": "770643c171658a558cb263b136bf91c61e72f0cff0ee7fc0d3e38bfa5a25f9c6",
+    "trace_sha256": "8230878e2322650f5491e1849bcb8cdee4be2c49f10c94cee00c81053dfd55eb"
+  }
+}

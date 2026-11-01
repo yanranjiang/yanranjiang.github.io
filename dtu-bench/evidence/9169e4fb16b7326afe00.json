@@ -1,0 +1,59 @@
+{
+  "id": "9169e4fb16b7326afe00",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_goal",
+    "source": 4,
+    "state": 5,
+    "phase": "from_start",
+    "metrics": {
+      "destination": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "object": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "wine_bottle_1"
+      ],
+      "action": 48
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the bowl on top of the cabinet",
+      "instruction": "put the wine bottle on top of the cabinet",
+      "instruction_label": "Instruction from start",
+      "change": "Object identity: bowl -> wine bottle; keep cabinet.",
+      "timing": "Instruction supplied from initial action 0; no mid-episode injection.",
+      "boundary": 0,
+      "preparation_actions": 0,
+      "total_before_continuation": 0,
+      "budget": 300,
+      "source": 4,
+      "suite": "libero_goal",
+      "arm": "object",
+      "reference": false,
+      "invalid": false,
+      "from_start": true,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/9169e4fb16b7326afe00.json"
+  },
+  "hashes": {
+    "terminal_sha256": "0c6413cd85ad03358d61adbfd45a0cc090f5309be6f6e363fb9b32ca704fa5be",
+    "video_sha256": "64f1457d4c53a2f4edc37de9b13e56eb60f63e3290ffe7e5ec1ba3cdaa9146ca",
+    "trace_sha256": "c46035bf635656b7461c1b23c4d5d06b7d8364b790080192d4baa78bc93baf84"
+  }
+}

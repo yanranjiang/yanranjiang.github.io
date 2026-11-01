@@ -1,0 +1,64 @@
+{
+  "id": "10a426db9746eb2e4a4e",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "OpenVLA-OFT",
+    "suite": "libero_10",
+    "source": 7,
+    "state": 0,
+    "phase": "Saved progress state",
+    "metrics": {
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "cheese": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "original_full": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "revised_full": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      }
+    },
+    "first_contact": null,
+    "alignment": "SUMMARY_ONLY",
+    "context": {
+      "original": "put both the alphabet soup and the cream cheese box in the basket",
+      "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+      "instruction_label": "Branch instruction (unchanged control)",
+      "change": "No task switch: original-instruction control.",
+      "timing": "Saved boundary: after 127 original-prefix actions; phase: saved soup-in-basket Held-10 progress. Branch instruction applies before continuation action 1.",
+      "boundary": 127,
+      "preparation_actions": 0,
+      "total_before_continuation": 127,
+      "budget": 300,
+      "source": 7,
+      "suite": "libero_10",
+      "arm": "official_l7_full",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/10a426db9746eb2e4a4e.json"
+  },
+  "hashes": {
+    "terminal_sha256": "3430474a3bb35f0f4e92e6ff331d7b83ecafd39c1e916ca557a9b511136aeb5a",
+    "video_sha256": "21e11c48c08b6459e2960b91312883620dac287fa5285afca098030ece8b8a1f",
+    "trace_sha256": null
+  }
+}

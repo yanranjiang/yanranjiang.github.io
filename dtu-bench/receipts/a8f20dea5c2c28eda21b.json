@@ -1,0 +1,19 @@
+{
+  "id": "a8f20dea5c2c28eda21b",
+  "status": "READY",
+  "scope": "Sanitized comparison receipt; private paths omitted.",
+  "video_sha256": "f24ae81facec5d774248e989b302f2f66c8b7534d16fca46b8eec04afd149ce8",
+  "left": "/dtu-bench/evidence/6d7cee6f01e8c45dc9e0.json",
+  "right": "/dtu-bench/evidence/48fc685153c92ed8d6db.json",
+  "boundary_verification": "Different scene/layout: NOT an identical-state causal comparison.",
+  "exact_alignment": [
+    false,
+    false
+  ],
+  "has_prefix": false,
+  "prefix_actions": null,
+  "preparation": 0,
+  "fps": 10,
+  "presentation_freeze_frames": 30,
+  "version": "paired-diagnostics-v3"
+}

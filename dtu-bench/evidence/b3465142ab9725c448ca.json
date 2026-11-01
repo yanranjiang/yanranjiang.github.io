@@ -1,0 +1,36 @@
+{
+  "id": "b3465142ab9725c448ca",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_10",
+    "source": 9,
+    "state": 3,
+    "phase": "early",
+    "metrics": {},
+    "first_contact": null,
+    "alignment": null,
+    "context": {
+      "original": "put the yellow and white mug in the microwave and close it",
+      "instruction": "No natural-language policy call; physical reference controller.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: at restored boundary (original action index not verified); phase: early / approach. Reference controller starts at video action 0.",
+      "boundary": null,
+      "preparation_actions": 0,
+      "total_before_continuation": null,
+      "budget": null,
+      "source": 9,
+      "suite": "libero_10",
+      "arm": "physical_reference",
+      "reference": true,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/b3465142ab9725c448ca.json"
+  },
+  "hashes": {
+    "terminal_sha256": "a174629f4e21838c5e31f2a012351844db47685f10b83dba2e18de5c131fc9ff"
+  }
+}

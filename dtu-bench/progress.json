@@ -1,0 +1,14 @@
+{
+  "expected_videos": 1719,
+  "verified_uploaded_videos": 264,
+  "remaining_videos": 1455,
+  "comparisons": {
+    "READY": 264,
+    "UPLOAD_PENDING": 412,
+    "REVIEW_REQUIRED": 35
+  },
+  "individual_records": 1108,
+  "individual_videos": 0,
+  "upload_complete": false,
+  "note": "SHA-256 and byte size checked against GitHub assets. Upload-pending and review-required records are not robot failures."
+}

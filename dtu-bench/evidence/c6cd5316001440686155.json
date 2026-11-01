@@ -1,0 +1,54 @@
+{
+  "id": "c6cd5316001440686155",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_10",
+    "source": 3,
+    "state": 2,
+    "phase": "late",
+    "metrics": {
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "revised": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "akita_black_bowl_1"
+      ],
+      "action": 1
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the black bowl in the bottom drawer of the cabinet and close it",
+      "instruction": "Put the black bowl in the bottom drawer and leave the drawer open.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: after 104 original-prefix actions; phase: late / transport. Reference controller starts at video action 0.",
+      "boundary": 104,
+      "preparation_actions": 0,
+      "total_before_continuation": 104,
+      "budget": 300,
+      "source": 3,
+      "suite": "libero_10",
+      "arm": "physical_reference",
+      "reference": true,
+      "invalid": false,
+      "from_start": false,
+      "warning": "PHYSICAL REFERENCE: not VLA adaptation success"
+    },
+    "evidence": "/dtu-bench/evidence/c6cd5316001440686155.json"
+  },
+  "hashes": {
+    "terminal_sha256": "5112626462ca0b03b2eb702b8781ad2e3e52821b69a966ad1c9cec74da221311",
+    "video_sha256": "0f830a4f9c57ff51a8f07fd71939edd0136bcd6930dd4da1b8d4443bb8d24336",
+    "trace_sha256": "878e2f7fe7c4f0cf6a8fef8fc5e2275e16bb9e88a7a197c803b19d143db70c80"
+  }
+}

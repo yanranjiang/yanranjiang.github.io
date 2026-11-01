@@ -1,0 +1,64 @@
+{
+  "id": "6e18a8113864848fa87f",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_10",
+    "source": 0,
+    "state": 2,
+    "phase": "Saved progress state",
+    "metrics": {
+      "full": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "requested_order": {
+        "ever": null,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "alphabet_soup_1"
+      ],
+      "action": 14
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "First put the alphabet soup in the basket, then put the tomato sauce in the basket.",
+      "instruction": "First put the tomato sauce in the basket, then put the alphabet soup in the basket.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Order: soup then tomato -> tomato then soup.",
+      "timing": "Saved boundary: after 32 original-prefix actions; phase: approach, before contact or either placement. Branch instruction applies before continuation action 1.",
+      "boundary": 32,
+      "preparation_actions": 0,
+      "total_before_continuation": 32,
+      "budget": 550,
+      "source": 0,
+      "suite": "libero_10",
+      "arm": "reverse_runtime",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/6e18a8113864848fa87f.json"
+  },
+  "hashes": {
+    "terminal_sha256": "60c0900dac6dc0bb3795b121f4c8fb7996ef2554621388479146dd999242f7a7",
+    "video_sha256": "9d9fb367ce37470408566d039de03ceb33fff4b61c3b19f324f919bb4247403d",
+    "trace_sha256": "ebf5a9091a3e1c35946f552588d79252c2bfa4b27d34f58276c4d7b5cd376d41"
+  }
+}

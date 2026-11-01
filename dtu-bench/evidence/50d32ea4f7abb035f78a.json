@@ -1,0 +1,36 @@
+{
+  "id": "50d32ea4f7abb035f78a",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_spatial",
+    "source": 0,
+    "state": 2,
+    "phase": "late",
+    "metrics": {},
+    "first_contact": null,
+    "alignment": null,
+    "context": {
+      "original": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction": "No natural-language policy call; physical reference controller.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: at restored boundary (original action index not verified); phase: late / transport. Reference controller starts at video action 0.",
+      "boundary": null,
+      "preparation_actions": 0,
+      "total_before_continuation": null,
+      "budget": null,
+      "source": 0,
+      "suite": "libero_spatial",
+      "arm": "physical_reference",
+      "reference": true,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/50d32ea4f7abb035f78a.json"
+  },
+  "hashes": {
+    "terminal_sha256": "4d59675998be6a0eb8a05275e2f3f6150aa2f61f57a948008a2184325805531c"
+  }
+}

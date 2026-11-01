@@ -1,0 +1,64 @@
+{
+  "id": "e142ec6c102e65271632",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_10",
+    "source": 0,
+    "state": 4,
+    "phase": "Saved progress state",
+    "metrics": {
+      "full": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "requested_order": {
+        "ever": null,
+        "held10": true,
+        "final": true
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "alphabet_soup_1"
+      ],
+      "action": 21
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "First put the alphabet soup in the basket, then put the tomato sauce in the basket.",
+      "instruction": "First put the alphabet soup in the basket, then put the tomato sauce in the basket.",
+      "instruction_label": "Branch instruction (unchanged control)",
+      "change": "No task switch: original-instruction control.",
+      "timing": "Saved boundary: after 45 original-prefix actions; phase: approach, before contact or either placement. Branch instruction applies before continuation action 1.",
+      "boundary": 45,
+      "preparation_actions": 0,
+      "total_before_continuation": 45,
+      "budget": 550,
+      "source": 0,
+      "suite": "libero_10",
+      "arm": "forward_runtime",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/e142ec6c102e65271632.json"
+  },
+  "hashes": {
+    "terminal_sha256": "49a2d0531dd254d0adb2f69e20b4ffcfa953ed92e1c35b4d470b4e7e81820cd0",
+    "video_sha256": "f0e929e0ac665ba216d44f7f2bacfafe4a93a8bbc22206c78fe724c44c0a43b9",
+    "trace_sha256": "9f42e8de5f72dc6a62d7101719eda5393f16a474f37710f53396c1a0802e198b"
+  }
+}

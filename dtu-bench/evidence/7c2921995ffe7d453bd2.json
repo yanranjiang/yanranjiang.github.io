@@ -1,0 +1,54 @@
+{
+  "id": "7c2921995ffe7d453bd2",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "physical reference",
+    "suite": "libero_goal",
+    "source": 4,
+    "state": 3,
+    "phase": "approach",
+    "metrics": {
+      "destination": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "object": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": null,
+    "alignment": "SUMMARY_ONLY",
+    "context": {
+      "original": "put the bowl on top of the cabinet",
+      "instruction": "Controller target: put the wine bottle on top of the cabinet (not a language-policy call).",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: at restored boundary (original action index not verified); phase: approach. Reference controller starts at video action 0.",
+      "boundary": null,
+      "preparation_actions": 0,
+      "total_before_continuation": null,
+      "budget": null,
+      "source": 4,
+      "suite": "libero_goal",
+      "arm": "object",
+      "reference": true,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/7c2921995ffe7d453bd2.json"
+  },
+  "hashes": {
+    "terminal_sha256": "515412a3c5083f7aadc00d8feb182048894472fc7854511acbf8f1bc3c23cddb",
+    "video_sha256": "e26a55fd074d78be18fc3ffdfd284ae0ece1061af80903bc7b4e38e9e4f2478b",
+    "trace_sha256": "cf77f105d1cfe4c615718c221982c51884f1e4f12349b2d71f5a26d1cba54f2c"
+  }
+}

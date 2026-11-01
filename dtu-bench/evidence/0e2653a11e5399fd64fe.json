@@ -1,0 +1,54 @@
+{
+  "id": "0e2653a11e5399fd64fe",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "dm05",
+    "suite": "libero_10",
+    "source": 9,
+    "state": 2,
+    "phase": "late",
+    "metrics": {
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "revised": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "white_yellow_mug_1"
+      ],
+      "action": 1
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the yellow and white mug in the microwave and close it",
+      "instruction": "Put the yellow and white mug in the microwave and leave the microwave open.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: after 110 original-prefix actions; phase: late / transport. Reference controller starts at video action 0.",
+      "boundary": 110,
+      "preparation_actions": 0,
+      "total_before_continuation": 110,
+      "budget": 300,
+      "source": 9,
+      "suite": "libero_10",
+      "arm": "physical_reference",
+      "reference": true,
+      "invalid": false,
+      "from_start": false,
+      "warning": "PHYSICAL REFERENCE: not VLA adaptation success"
+    },
+    "evidence": "/dtu-bench/evidence/0e2653a11e5399fd64fe.json"
+  },
+  "hashes": {
+    "terminal_sha256": "57ebf1be546a0189cf5999dad7b087632b849767b91dd3f80d9e9ed410c6ce0b",
+    "video_sha256": "bd90721672292741a18e8108f5c4e9f7a49996c5b1058792515bca85a040f29f",
+    "trace_sha256": "40c19d946c0174a787c0e4d3d68696e9e050b72bbd50175947ae2a32d28cde38"
+  }
+}

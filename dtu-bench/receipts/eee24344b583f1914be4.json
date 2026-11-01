@@ -1,0 +1,19 @@
+{
+  "id": "eee24344b583f1914be4",
+  "status": "READY",
+  "scope": "Sanitized comparison receipt; private paths omitted.",
+  "video_sha256": "9ded771048d5132f4657f2135ebb16eb639dcd3940c1308d5e44869743aa3fbb",
+  "left": "/dtu-bench/evidence/4cfb30bff46e6195c8f9.json",
+  "right": "/dtu-bench/evidence/088d63b68a5575140a25.json",
+  "boundary_verification": "Matched boundary verified by physical_snapshot_sha256.",
+  "exact_alignment": [
+    true,
+    true
+  ],
+  "has_prefix": true,
+  "prefix_actions": 36,
+  "preparation": 0,
+  "fps": 10,
+  "presentation_freeze_frames": 30,
+  "version": "paired-diagnostics-v3"
+}

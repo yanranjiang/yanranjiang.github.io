@@ -1,0 +1,64 @@
+{
+  "id": "d9ed6997f3f0720e86a9",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_10",
+    "source": 0,
+    "state": 5,
+    "phase": "Saved progress state",
+    "metrics": {
+      "full": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "requested_order": {
+        "ever": null,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "alphabet_soup_1"
+      ],
+      "action": 18
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "First put the alphabet soup in the basket, then put the tomato sauce in the basket.",
+      "instruction": "First put the tomato sauce in the basket, then put the alphabet soup in the basket.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Order: soup then tomato -> tomato then soup.",
+      "timing": "Saved boundary: after 40 original-prefix actions; phase: approach, before contact or either placement. Branch instruction applies before continuation action 1.",
+      "boundary": 40,
+      "preparation_actions": 0,
+      "total_before_continuation": 40,
+      "budget": 550,
+      "source": 0,
+      "suite": "libero_10",
+      "arm": "reverse_runtime",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/d9ed6997f3f0720e86a9.json"
+  },
+  "hashes": {
+    "terminal_sha256": "bfc92d3362f8dbb6a1f08226e9417968693c3346e42b510bbf06d2bac577d3d4",
+    "video_sha256": "2b81768964a4adaf533494dea2c0cbe974f47fe99073b1f3031b8f5c7e4511bb",
+    "trace_sha256": "0e7ef1b666e52c2b5ad6b10bc54edb8cd58daa0ec9ee1b9efa7137e6cea570d7"
+  }
+}

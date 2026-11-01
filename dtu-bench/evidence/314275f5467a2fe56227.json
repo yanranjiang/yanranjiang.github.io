@@ -1,0 +1,54 @@
+{
+  "id": "314275f5467a2fe56227",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "dm05",
+    "suite": "libero_object",
+    "source": 0,
+    "state": 1,
+    "phase": "early",
+    "metrics": {
+      "original": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "revised": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "alphabet_soup_1"
+      ],
+      "action": 11
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "pick up the alphabet soup and place it in the basket",
+      "instruction": "pick up the cream cheese and place it in the basket",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Object identity: soup -> cream cheese.",
+      "timing": "Saved boundary: after 40 original-prefix actions; phase: early / approach. Branch instruction applies before continuation action 1.",
+      "boundary": 40,
+      "preparation_actions": 0,
+      "total_before_continuation": 40,
+      "budget": 600,
+      "source": 0,
+      "suite": "libero_object",
+      "arm": "revised",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/314275f5467a2fe56227.json"
+  },
+  "hashes": {
+    "terminal_sha256": "d64e2ef8c79c8eaab151625f5a170a8edf5ae7f1e80c1aef79d0d2b319cbd1d0",
+    "video_sha256": "4522e67f9fcd86353ac4b742d14db81f5a9d7abcb164f2faa77bb99c46fc2f64",
+    "trace_sha256": "ced96d9316683db588f100b18a6c58c26c8c45989790d30f623bc7fc3585daa7"
+  }
+}

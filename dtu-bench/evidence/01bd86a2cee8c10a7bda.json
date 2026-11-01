@@ -1,0 +1,64 @@
+{
+  "id": "01bd86a2cee8c10a7bda",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "OpenVLA-OFT",
+    "suite": "libero_10",
+    "source": 7,
+    "state": 0,
+    "phase": "Saved progress state",
+    "metrics": {
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "cheese": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "original_full": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "revised_full": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": null,
+    "alignment": "SUMMARY_ONLY",
+    "context": {
+      "original": "put both the alphabet soup and the cream cheese box in the basket",
+      "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+      "instruction_label": "Branch instruction (unchanged control)",
+      "change": "Object-layout intervention; instruction held fixed within the layout comparison.",
+      "timing": "Saved boundary: after 127 original-prefix actions; phase: saved soup-in-basket Held-10 progress. Branch instruction applies before continuation action 1. Layout was modified before continuation.",
+      "boundary": 127,
+      "preparation_actions": 0,
+      "total_before_continuation": 127,
+      "budget": 300,
+      "source": 7,
+      "suite": "libero_10",
+      "arm": "L7_state_with_L0_relevant_object_layout",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/01bd86a2cee8c10a7bda.json"
+  },
+  "hashes": {
+    "terminal_sha256": "ec5694164d75fd33c8b40b237b50df99603388a756200a025e781dbdc263fe60",
+    "video_sha256": "88bee44ea45fc936d2bc38290f7c3de30ae47b4e03e55da56a8fca9df52a1fe9",
+    "trace_sha256": null
+  }
+}

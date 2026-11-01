@@ -1,0 +1,54 @@
+{
+  "id": "c8967f97c7f8f1d07168",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_spatial",
+    "source": 0,
+    "state": 3,
+    "phase": "Saved progress state",
+    "metrics": {
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "destination": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "target": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      }
+    },
+    "first_contact": null,
+    "alignment": "SUMMARY_ONLY",
+    "context": {
+      "original": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction": "pick up the black bowl next to the ramekin and place it on the plate",
+      "instruction_label": "Instruction from start",
+      "change": "Target grounding: between-bowl -> next-to-ramekin bowl; keep plate.",
+      "timing": "Instruction supplied from initial action 0; no mid-episode injection.",
+      "boundary": 0,
+      "preparation_actions": 0,
+      "total_before_continuation": 0,
+      "budget": 300,
+      "source": 0,
+      "suite": "libero_spatial",
+      "arm": "state3_target_from_start",
+      "reference": false,
+      "invalid": true,
+      "from_start": true,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/c8967f97c7f8f1d07168.json"
+  },
+  "hashes": {
+    "terminal_sha256": "a761f7367611a06fab71a3523581b0ea9b4058a1c14e2fe30f03f24322579b5c",
+    "video_sha256": "afc47010f569eb80e820deb13a12a8871a5c9af41f586d012c577191c29e39da",
+    "trace_sha256": null
+  }
+}

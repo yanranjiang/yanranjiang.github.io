@@ -1,0 +1,54 @@
+{
+  "id": "f0702cb98da69062dd55",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05 + CAG-VA",
+    "suite": "libero_spatial",
+    "source": 0,
+    "state": "state3",
+    "phase": "Saved progress state",
+    "metrics": {
+      "original": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "revised": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "akita_black_bowl_1"
+      ],
+      "action": 13
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction_label": "Branch instruction (unchanged control)",
+      "change": "No task switch: original-instruction control.",
+      "timing": "Saved boundary: after 35 original-prefix actions; phase: not recorded. Branch instruction applies before continuation action 1.",
+      "boundary": 35,
+      "preparation_actions": 0,
+      "total_before_continuation": 35,
+      "budget": 300,
+      "source": 0,
+      "suite": "libero_spatial",
+      "arm": "original",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/f0702cb98da69062dd55.json"
+  },
+  "hashes": {
+    "terminal_sha256": "3bbf4854692dde131b441c8b1e9daf148cb0ee38f1d1086a18a2c41ad01ea44b",
+    "video_sha256": "3fc80d4b4656042579fa89bfc2ddaf4ed15916b04539f6f1bb7d7464b9ab1ba3",
+    "trace_sha256": "23c31e668441674cf4d45c08666044292d2ed8cfd8ab4a9e728c7b54fca5eef0"
+  }
+}

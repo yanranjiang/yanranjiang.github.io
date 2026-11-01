@@ -1,0 +1,64 @@
+{
+  "id": "ca84128855d5ff9884a0",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "OpenVLA-OFT",
+    "suite": "libero_10",
+    "source": 0,
+    "state": 0,
+    "phase": "Saved progress state",
+    "metrics": {
+      "soup": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "tomato": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "cheese": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "original_full": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "revised_full": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": null,
+    "alignment": "SUMMARY_ONLY",
+    "context": {
+      "original": "put both the alphabet soup and the tomato sauce in the basket",
+      "instruction": "put the cream cheese box in the basket",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Subgoal replacement: tomato sauce -> cream cheese; preserve soup in basket.",
+      "timing": "Saved boundary: after 260 original-prefix actions; phase: saved soup-in-basket Held-10 progress. Branch instruction applies before continuation action 1.",
+      "boundary": 260,
+      "preparation_actions": 0,
+      "total_before_continuation": 260,
+      "budget": 300,
+      "source": 0,
+      "suite": "libero_10",
+      "arm": "revised_suffix_only",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/ca84128855d5ff9884a0.json"
+  },
+  "hashes": {
+    "terminal_sha256": "105f21f954ff640383f96d8f4d25f4e058af3464111e745ac61fdf9be1aede89",
+    "video_sha256": "6d74165def18f3e3729341ee29b6db3e491931c05438c7ca99cf48528b435d76",
+    "trace_sha256": null
+  }
+}

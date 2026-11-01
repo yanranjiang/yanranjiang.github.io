@@ -1,0 +1,36 @@
+{
+  "id": "fbe3657e62ef24e25270",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "dm05",
+    "suite": "libero_object",
+    "source": 0,
+    "state": 1,
+    "phase": "early",
+    "metrics": {},
+    "first_contact": null,
+    "alignment": null,
+    "context": {
+      "original": "pick up the alphabet soup and place it in the basket",
+      "instruction": "pick up the cream cheese and place it in the basket",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Object identity: soup -> cream cheese. Duration-matched hold preparation.",
+      "timing": "Saved boundary: after 40 original-prefix actions; phase: early, verified pre-contact approach. Then 60 controller preparation actions. Branch instruction applies before continuation action 1.",
+      "boundary": 40,
+      "preparation_actions": 60,
+      "total_before_continuation": 100,
+      "budget": null,
+      "source": 0,
+      "suite": "libero_object",
+      "arm": "hold_revised",
+      "reference": false,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/fbe3657e62ef24e25270.json"
+  },
+  "hashes": {
+    "terminal_sha256": "7ba049d806b0859a2b4d6bffb5edd542a40ea139dc588571c93a574baa43dbcc"
+  }
+}

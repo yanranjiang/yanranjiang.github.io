@@ -1,0 +1,54 @@
+{
+  "id": "74198f18e90658766f0d",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "dm05",
+    "suite": "libero_object",
+    "source": 1,
+    "state": 2,
+    "phase": "early",
+    "metrics": {
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "revised": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "alphabet_soup_1"
+      ],
+      "action": 58
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "pick up the cream cheese and place it in the basket",
+      "instruction": "pick up the alphabet soup and place it in the basket",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: after 35 original-prefix actions; phase: early / approach. Reference controller starts at video action 0.",
+      "boundary": 35,
+      "preparation_actions": 0,
+      "total_before_continuation": 35,
+      "budget": 300,
+      "source": 1,
+      "suite": "libero_object",
+      "arm": "physical_reference",
+      "reference": true,
+      "invalid": false,
+      "from_start": false,
+      "warning": "PHYSICAL REFERENCE: not VLA adaptation success"
+    },
+    "evidence": "/dtu-bench/evidence/74198f18e90658766f0d.json"
+  },
+  "hashes": {
+    "terminal_sha256": "f611a2082ebf0c8e24260e2799f05184ffb3bb753310bdc9f6e70d78fb554264",
+    "video_sha256": "a601196ddd0ad8769229042492fed468d3cce2b2e27bd004573a92d364d0de30",
+    "trace_sha256": "b5158aa3947d2ef28826edbdb62ce3ed4e6cb0529c940e6004349a8792d19714"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "01afccfedb163795f0b2",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_10",
+    "source": 9,
+    "state": 3,
+    "phase": "early",
+    "metrics": {},
+    "first_contact": null,
+    "alignment": null,
+    "context": {
+      "original": "put the yellow and white mug in the microwave and close it",
+      "instruction": "Branch instruction not recorded.",
+      "instruction_label": "Branch instruction (unchanged control)",
+      "change": "No task switch: original-instruction control.",
+      "timing": "Saved boundary: at restored boundary (original action index not verified); phase: early / approach. Branch instruction applies before continuation action 1.",
+      "boundary": null,
+      "preparation_actions": 0,
+      "total_before_continuation": null,
+      "budget": null,
+      "source": 9,
+      "suite": "libero_10",
+      "arm": "original",
+      "reference": false,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/01afccfedb163795f0b2.json"
+  },
+  "hashes": {
+    "terminal_sha256": "41c7572b6967d0fd46398fa17cebd2d358c0d9e10b6a5d6ac42cc6416e455508"
+  }
+}

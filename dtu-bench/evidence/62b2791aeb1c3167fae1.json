@@ -1,0 +1,54 @@
+{
+  "id": "62b2791aeb1c3167fae1",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi05",
+    "suite": "libero_10",
+    "source": 3,
+    "state": 4,
+    "phase": "early",
+    "metrics": {
+      "original": {
+        "ever": true,
+        "held10": true,
+        "final": true
+      },
+      "revised": {
+        "ever": true,
+        "held10": true,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "akita_black_bowl_1"
+      ],
+      "action": 26
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the black bowl in the bottom drawer of the cabinet and close it",
+      "instruction": "Put the black bowl in the bottom drawer and leave the drawer open.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Final state: close -> leave open; preserve the object placement requirement.",
+      "timing": "Saved boundary: after 68 original-prefix actions; phase: early / approach. Branch instruction applies before continuation action 1.",
+      "boundary": 68,
+      "preparation_actions": 0,
+      "total_before_continuation": 68,
+      "budget": 300,
+      "source": 3,
+      "suite": "libero_10",
+      "arm": "revised",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/62b2791aeb1c3167fae1.json"
+  },
+  "hashes": {
+    "terminal_sha256": "65cc0cdbd3dbf073d6b5006d573ff8957f5fbb086b2e69a4197190d53bd0d4f8",
+    "video_sha256": "4f4efc77d3eb7491f7e356b02333a40e8cad175e0c99ffae773df5706b138ea6",
+    "trace_sha256": "16dff3629d920916b4e2cd210266fb746f67bdd56231459415613e402c1bd8bf"
+  }
+}

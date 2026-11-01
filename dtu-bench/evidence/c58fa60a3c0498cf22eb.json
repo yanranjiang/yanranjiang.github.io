@@ -1,0 +1,54 @@
+{
+  "id": "c58fa60a3c0498cf22eb",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "Light-WAM",
+    "suite": "libero_10",
+    "source": 0,
+    "state": 2,
+    "phase": "runtime_mid",
+    "metrics": {
+      "original": {
+        "ever": true,
+        "held10": true,
+        "final": false
+      },
+      "revised": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "tomato_sauce_1"
+      ],
+      "action": 39
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put both the alphabet soup and the tomato sauce in the basket",
+      "instruction": "put both the alphabet soup and the cream cheese box in the basket",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Subgoal replacement: tomato sauce -> cream cheese; preserve soup in basket.",
+      "timing": "Saved boundary: after 147 original-prefix actions; phase: runtime_mid. Branch instruction applies before continuation action 1.",
+      "boundary": 147,
+      "preparation_actions": 0,
+      "total_before_continuation": 147,
+      "budget": 300,
+      "source": 0,
+      "suite": "libero_10",
+      "arm": "revised",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Matched-state diagnostic; goal attainment alone does not prove behavioral redirection"
+    },
+    "evidence": "/dtu-bench/evidence/c58fa60a3c0498cf22eb.json"
+  },
+  "hashes": {
+    "terminal_sha256": "c72ee29e6422a8387b149fb13e345b0ed49ef59e2cb2d58cead5df7e7cbf8788",
+    "video_sha256": "5acc8efb3d125a13cc98187d44041ea62e5a2f2b01406b603bd1e07de431d512",
+    "trace_sha256": "19e00e73c866ff830fd210c102a0fa9d8feb32502f4c82532faa042ba9bb2dba"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "8799f1ab2238d2980b03",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "dm05",
+    "suite": "libero_spatial",
+    "source": 0,
+    "state": 2,
+    "phase": "middle",
+    "metrics": {},
+    "first_contact": null,
+    "alignment": null,
+    "context": {
+      "original": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction": "Branch instruction not recorded.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Target grounding: between-bowl -> next-to-ramekin bowl; keep plate.",
+      "timing": "Saved boundary: at restored boundary (original action index not verified); phase: middle / stable grasp. Branch instruction applies before continuation action 1.",
+      "boundary": null,
+      "preparation_actions": 0,
+      "total_before_continuation": null,
+      "budget": null,
+      "source": 0,
+      "suite": "libero_spatial",
+      "arm": "revised",
+      "reference": false,
+      "invalid": true,
+      "from_start": false,
+      "warning": "INVALID / EXCLUDED: review only, not a policy-failure score"
+    },
+    "evidence": "/dtu-bench/evidence/8799f1ab2238d2980b03.json"
+  },
+  "hashes": {
+    "terminal_sha256": "d8b3ffcc5f94e252c0f35075bf474f094cfbc52d34c7eb6b83b656c70df6030a"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "501e23a4b3bf59cd5834",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "pi0",
+    "suite": "libero_goal",
+    "source": 4,
+    "state": 2,
+    "phase": "stable_grasp",
+    "metrics": {
+      "destination": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "object": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "akita_black_bowl_1"
+      ],
+      "action": 1
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "put the bowl on top of the cabinet",
+      "instruction": "Stop the task.",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Cancellation: terminate the original task; no replacement goal.",
+      "timing": "Saved boundary: after 50 original-prefix actions; phase: stable_grasp. Branch instruction applies before continuation action 1.",
+      "boundary": 50,
+      "preparation_actions": 0,
+      "total_before_continuation": 50,
+      "budget": 300,
+      "source": 4,
+      "suite": "libero_goal",
+      "arm": "cancel",
+      "reference": false,
+      "invalid": false,
+      "from_start": false,
+      "warning": "Cancellation safe-stop success is NOT SCORED"
+    },
+    "evidence": "/dtu-bench/evidence/501e23a4b3bf59cd5834.json"
+  },
+  "hashes": {
+    "terminal_sha256": "2c2abd6cda11f76ba29df3d89e527196870248169c9863803dedc47f2d17523c",
+    "video_sha256": "9c1fd589afc33bb4f582108d2aa5c976f491d5bc83d20e00edcb6dbec3c6bc32",
+    "trace_sha256": "f3b88634e3749e41e63357435c749297b50dc21dce175c6bcda9c40b0e24dbb9"
+  }
+}

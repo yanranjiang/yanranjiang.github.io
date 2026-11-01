@@ -1,0 +1,54 @@
+{
+  "id": "75a00a9bef1acab00cbd",
+  "scope": "Public summary of recorded evidence, not a re-evaluation.",
+  "branch": {
+    "policy": "dm05",
+    "suite": "libero_spatial",
+    "source": 0,
+    "state": 5,
+    "phase": "late",
+    "metrics": {
+      "original": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      },
+      "revised": {
+        "ever": false,
+        "held10": false,
+        "final": false
+      }
+    },
+    "first_contact": {
+      "objects": [
+        "akita_black_bowl_1"
+      ],
+      "action": 1
+    },
+    "alignment": "FRAME0_START_THEN_POST_ACTION",
+    "context": {
+      "original": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "instruction": "pick up the black bowl next to the ramekin and place it on the plate",
+      "instruction_label": "Updated / branch instruction",
+      "change": "Independent physical reference; no VLA language update.",
+      "timing": "Saved boundary: after 59 original-prefix actions; phase: late / transport. Reference controller starts at video action 0.",
+      "boundary": 59,
+      "preparation_actions": 0,
+      "total_before_continuation": 59,
+      "budget": 300,
+      "source": 0,
+      "suite": "libero_spatial",
+      "arm": "physical_reference",
+      "reference": true,
+      "invalid": false,
+      "from_start": false,
+      "warning": "PHYSICAL REFERENCE: not VLA adaptation success"
+    },
+    "evidence": "/dtu-bench/evidence/75a00a9bef1acab00cbd.json"
+  },
+  "hashes": {
+    "terminal_sha256": "d2c679befc1fba42fd5ae1ce09c54b9c7c7e500aa59bad9a889c9892a1b740c4",
+    "video_sha256": "0101d33eeb5ef59461c6b0ed50751009c99c8cf1e540235263f93ab108d65be7",
+    "trace_sha256": "827533133ff3f54fbf00f0b3736d2068777db57f95587c356ed9a502f17e64dd"
+  }
+}
