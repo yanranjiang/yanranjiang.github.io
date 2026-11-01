@@ -5,7 +5,7 @@
       "02 Behavior attribution / 600 actions",
       "04 Instruction x posture factorial"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -51,7 +51,7 @@
       },
       "evidence": "/dtu-bench/evidence/1713ce6c0abdc5af0456.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-1713ce6c0abdc5af0456.mp4"
   },
   {
     "id": "6f74fecb5d370354dde2",
@@ -596,7 +596,7 @@
     "groups": [
       "04 Instruction x posture factorial"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -642,7 +642,7 @@
       },
       "evidence": "/dtu-bench/evidence/05a1b5cb36cdfbe48687.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-05a1b5cb36cdfbe48687.mp4"
   },
   {
     "id": "fe238d0389cdc3a065f1",
@@ -973,7 +973,7 @@
       "03 Wording / posture / hold",
       "04 Instruction x posture factorial"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -1019,7 +1019,7 @@
       },
       "evidence": "/dtu-bench/evidence/08d42cb10cf7bf604a0c.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-08d42cb10cf7bf604a0c.mp4"
   },
   {
     "id": "7be471f105471799e2c6",
@@ -1715,7 +1715,7 @@
     "groups": [
       "12 PI0 Spatial matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_spatial",
@@ -1761,7 +1761,7 @@
       },
       "evidence": "/dtu-bench/evidence/0d36336718793f4490b6.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0d36336718793f4490b6.mp4"
   },
   {
     "id": "c8967f97c7f8f1d07168",
@@ -2139,7 +2139,7 @@
     "groups": [
       "12 PI0 Spatial matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_spatial",
@@ -2185,7 +2185,7 @@
       },
       "evidence": "/dtu-bench/evidence/06aee23598abbd837d3f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-06aee23598abbd837d3f.mp4"
   },
   {
     "id": "ad6849bf11c04f5fb7ed",
@@ -2656,7 +2656,7 @@
     "groups": [
       "13 OFT Long wording / scene / layout"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "OpenVLA-OFT",
       "suite": "libero_10",
@@ -2712,14 +2712,14 @@
       },
       "evidence": "/dtu-bench/evidence/01bd86a2cee8c10a7bda.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-01bd86a2cee8c10a7bda.mp4"
   },
   {
     "id": "10a426db9746eb2e4a4e",
     "groups": [
       "13 OFT Long wording / scene / layout"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "OpenVLA-OFT",
       "suite": "libero_10",
@@ -2775,7 +2775,7 @@
       },
       "evidence": "/dtu-bench/evidence/10a426db9746eb2e4a4e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-10a426db9746eb2e4a4e.mp4"
   },
   {
     "id": "90c03d0b42b0d8ae90a6",
@@ -3312,7 +3312,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -3358,14 +3358,14 @@
       },
       "evidence": "/dtu-bench/evidence/016d9ed5802442d5aa0c.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-016d9ed5802442d5aa0c.mp4"
   },
   {
     "id": "04438894e73155c0b0c7",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -3411,7 +3411,7 @@
       },
       "evidence": "/dtu-bench/evidence/04438894e73155c0b0c7.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-04438894e73155c0b0c7.mp4"
   },
   {
     "id": "6bceab1c66646fb4e2df",
@@ -4732,7 +4732,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -4778,7 +4778,7 @@
       },
       "evidence": "/dtu-bench/evidence/02b60a6dcd9557e47b46.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-02b60a6dcd9557e47b46.mp4"
   },
   {
     "id": "7972c33ab84116e2b644",
@@ -4891,7 +4891,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -4937,7 +4937,7 @@
       },
       "evidence": "/dtu-bench/evidence/121d6170f90f595e50a4.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-121d6170f90f595e50a4.mp4"
   },
   {
     "id": "cc24f267a1ba60e8aa05",
@@ -6057,7 +6057,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -6103,7 +6103,7 @@
       },
       "evidence": "/dtu-bench/evidence/0023545ae266ed82ca01.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0023545ae266ed82ca01.mp4"
   },
   {
     "id": "ec8154d76405d9de3759",
@@ -6216,7 +6216,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -6262,7 +6262,7 @@
       },
       "evidence": "/dtu-bench/evidence/130b44d340ee12db26d6.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-130b44d340ee12db26d6.mp4"
   },
   {
     "id": "ccbe5b445de16bd4ec74",
@@ -7318,7 +7318,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -7364,7 +7364,7 @@
       },
       "evidence": "/dtu-bench/evidence/0ff72f0289179f0104f3.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0ff72f0289179f0104f3.mp4"
   },
   {
     "id": "236ee5d386fef9daa07a",
@@ -7901,7 +7901,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -7947,7 +7947,7 @@
       },
       "evidence": "/dtu-bench/evidence/0d6c4845091b4e912556.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0d6c4845091b4e912556.mp4"
   },
   {
     "id": "dd98aa8cbccc56cf3b96",
@@ -8007,7 +8007,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -8053,7 +8053,7 @@
       },
       "evidence": "/dtu-bench/evidence/0776d22ac3b791649f71.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0776d22ac3b791649f71.mp4"
   },
   {
     "id": "3edf7d8e54c7ee19c10b",
@@ -8966,7 +8966,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -9012,7 +9012,7 @@
       },
       "evidence": "/dtu-bench/evidence/068f061e0bc8c9ca6b26.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-068f061e0bc8c9ca6b26.mp4"
   },
   {
     "id": "ad4e30656cb1424253fc",
@@ -9443,7 +9443,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -9489,7 +9489,7 @@
       },
       "evidence": "/dtu-bench/evidence/10523c47170fba6e70dd.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-10523c47170fba6e70dd.mp4"
   },
   {
     "id": "59ea6cfef8bda9d4ebe1",
@@ -10821,7 +10821,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -10867,7 +10867,7 @@
       },
       "evidence": "/dtu-bench/evidence/13d6673aa224a87cb4fd.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-13d6673aa224a87cb4fd.mp4"
   },
   {
     "id": "9bc864473b4bd77452a9",
@@ -11716,7 +11716,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -11767,7 +11767,7 @@
       },
       "evidence": "/dtu-bench/evidence/0c5d0293f159968f168f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0c5d0293f159968f168f.mp4"
   },
   {
     "id": "87841269de3fc25bf59a",
@@ -11890,7 +11890,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -11941,7 +11941,7 @@
       },
       "evidence": "/dtu-bench/evidence/06dbcefea2604742a98c.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-06dbcefea2604742a98c.mp4"
   },
   {
     "id": "c80903fe51173fd03925",
@@ -12528,7 +12528,7 @@
     "groups": [
       "06 PI05 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_goal",
@@ -12579,14 +12579,14 @@
       },
       "evidence": "/dtu-bench/evidence/099e3d7ea4f30a1a84ee.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-099e3d7ea4f30a1a84ee.mp4"
   },
   {
     "id": "0f097d35689c4bf32983",
     "groups": [
       "06 PI05 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_goal",
@@ -12637,14 +12637,14 @@
       },
       "evidence": "/dtu-bench/evidence/0f097d35689c4bf32983.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0f097d35689c4bf32983.mp4"
   },
   {
     "id": "08118688825a377d2d1f",
     "groups": [
       "06 PI05 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_goal",
@@ -12695,7 +12695,7 @@
       },
       "evidence": "/dtu-bench/evidence/08118688825a377d2d1f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-08118688825a377d2d1f.mp4"
   },
   {
     "id": "a669a2662fe7b5b586f9",
@@ -13681,7 +13681,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -13727,7 +13727,7 @@
       },
       "evidence": "/dtu-bench/evidence/053c5ee111d65d07abdd.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-053c5ee111d65d07abdd.mp4"
   },
   {
     "id": "ffde72f88e9b8e1326f8",
@@ -13840,7 +13840,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -13886,7 +13886,7 @@
       },
       "evidence": "/dtu-bench/evidence/13eac82cc879a032e4fd.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-13eac82cc879a032e4fd.mp4"
   },
   {
     "id": "61981a634be5997f03dc",
@@ -16097,7 +16097,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -16143,7 +16143,7 @@
       },
       "evidence": "/dtu-bench/evidence/10f93aa30ae9d2904096.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-10f93aa30ae9d2904096.mp4"
   },
   {
     "id": "42c5bf20522582c930de",
@@ -16362,7 +16362,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -16408,7 +16408,7 @@
       },
       "evidence": "/dtu-bench/evidence/0e2653a11e5399fd64fe.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0e2653a11e5399fd64fe.mp4"
   },
   {
     "id": "8ea685739e337222561e",
@@ -17782,7 +17782,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -17828,7 +17828,7 @@
       },
       "evidence": "/dtu-bench/evidence/022ee1a5609fff826cd1.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-022ee1a5609fff826cd1.mp4"
   },
   {
     "id": "78a4127e2829ea7cc867",
@@ -18895,7 +18895,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -18941,7 +18941,7 @@
       },
       "evidence": "/dtu-bench/evidence/00309e45b067e8a4a6b4.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-00309e45b067e8a4a6b4.mp4"
   },
   {
     "id": "9ed54d523c9b755d5462",
@@ -19054,7 +19054,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -19100,14 +19100,14 @@
       },
       "evidence": "/dtu-bench/evidence/1319e73da704af19035e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-1319e73da704af19035e.mp4"
   },
   {
     "id": "08752ca7ce655b1424b4",
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -19153,7 +19153,7 @@
       },
       "evidence": "/dtu-bench/evidence/08752ca7ce655b1424b4.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-08752ca7ce655b1424b4.mp4"
   },
   {
     "id": "b2babc005dca12c4e5a8",
@@ -19372,7 +19372,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -19418,7 +19418,7 @@
       },
       "evidence": "/dtu-bench/evidence/033c6d74204be17dcf8e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-033c6d74204be17dcf8e.mp4"
   },
   {
     "id": "1e84fcc23a789a6418c1",
@@ -19970,7 +19970,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -20016,7 +20016,7 @@
       },
       "evidence": "/dtu-bench/evidence/04e76b16ee94d1015f94.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-04e76b16ee94d1015f94.mp4"
   },
   {
     "id": "a52a95b0e287da11ecc0",
@@ -21083,7 +21083,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -21129,7 +21129,7 @@
       },
       "evidence": "/dtu-bench/evidence/1508374c73e8883a0a9e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-1508374c73e8883a0a9e.mp4"
   },
   {
     "id": "ccb30c554cda41bd8d67",
@@ -22697,7 +22697,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -22748,7 +22748,7 @@
       },
       "evidence": "/dtu-bench/evidence/14d165349e363616be48.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-14d165349e363616be48.mp4"
   },
   {
     "id": "501e23a4b3bf59cd5834",
@@ -22813,7 +22813,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -22864,14 +22864,14 @@
       },
       "evidence": "/dtu-bench/evidence/107a20c666619b250eab.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-107a20c666619b250eab.mp4"
   },
   {
     "id": "06eb886ae98a1f312c24",
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -22922,14 +22922,14 @@
       },
       "evidence": "/dtu-bench/evidence/06eb886ae98a1f312c24.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-06eb886ae98a1f312c24.mp4"
   },
   {
     "id": "0b42e9d3c1dead26c58c",
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -22980,14 +22980,14 @@
       },
       "evidence": "/dtu-bench/evidence/0b42e9d3c1dead26c58c.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0b42e9d3c1dead26c58c.mp4"
   },
   {
     "id": "03b337dd03024b82b195",
     "groups": [
       "06 PI05 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_goal",
@@ -23038,7 +23038,7 @@
       },
       "evidence": "/dtu-bench/evidence/03b337dd03024b82b195.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-03b337dd03024b82b195.mp4"
   },
   {
     "id": "cbf52e1f096e6d22b51e",
@@ -23635,7 +23635,7 @@
     "groups": [
       "07 Order revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_10",
@@ -23691,7 +23691,7 @@
       },
       "evidence": "/dtu-bench/evidence/0e3b15fc2431fe59bac0.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0e3b15fc2431fe59bac0.mp4"
   },
   {
     "id": "6e18a8113864848fa87f",
@@ -24248,7 +24248,7 @@
     "groups": [
       "10 Physical feasibility witnesses"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "physical reference",
       "suite": "libero_goal",
@@ -24294,7 +24294,7 @@
       },
       "evidence": "/dtu-bench/evidence/0e766ee858712c461421.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0e766ee858712c461421.mp4"
   },
   {
     "id": "407b8123488dd250f6d8",
@@ -24425,7 +24425,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -24471,7 +24471,7 @@
       },
       "evidence": "/dtu-bench/evidence/0d5acee1eb62522e8d43.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0d5acee1eb62522e8d43.mp4"
   },
   {
     "id": "2009b9999a25cbe48368",
@@ -25421,7 +25421,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -25467,7 +25467,7 @@
       },
       "evidence": "/dtu-bench/evidence/0bced510fccb462311a0.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0bced510fccb462311a0.mp4"
   },
   {
     "id": "c75b4c87f8652171cf9e",
@@ -26587,7 +26587,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -26633,7 +26633,7 @@
       },
       "evidence": "/dtu-bench/evidence/0482a346b69cc25db371.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0482a346b69cc25db371.mp4"
   },
   {
     "id": "e6e41ec45dd776a2f04e",
@@ -26905,7 +26905,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -26951,7 +26951,7 @@
       },
       "evidence": "/dtu-bench/evidence/0c8c13be088cf594c986.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0c8c13be088cf594c986.mp4"
   },
   {
     "id": "c25e3db9bdb4b44cbb5e",
@@ -28336,7 +28336,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -28382,7 +28382,7 @@
       },
       "evidence": "/dtu-bench/evidence/11a04fe3ac53c59ffc67.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-11a04fe3ac53c59ffc67.mp4"
   },
   {
     "id": "2ec908261cca145fb97e",
@@ -28707,7 +28707,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -28753,7 +28753,7 @@
       },
       "evidence": "/dtu-bench/evidence/06bc368a71d15a4b6a65.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-06bc368a71d15a4b6a65.mp4"
   },
   {
     "id": "b1e48bf9f665fa0b10e9",
@@ -29136,7 +29136,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -29182,7 +29182,7 @@
       },
       "evidence": "/dtu-bench/evidence/0dcdb676fc1994817d6f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0dcdb676fc1994817d6f.mp4"
   },
   {
     "id": "4306652061c0d501f457",
@@ -29666,7 +29666,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -29712,7 +29712,7 @@
       },
       "evidence": "/dtu-bench/evidence/02fe086fcc76ac846e0f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-02fe086fcc76ac846e0f.mp4"
   },
   {
     "id": "a42dda78c4e23a2caaac",
@@ -30461,7 +30461,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -30507,7 +30507,7 @@
       },
       "evidence": "/dtu-bench/evidence/04b7849d139c1d896676.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-04b7849d139c1d896676.mp4"
   },
   {
     "id": "da9eafd69dfad02da1dc",
@@ -32316,7 +32316,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -32362,7 +32362,7 @@
       },
       "evidence": "/dtu-bench/evidence/0449fc7cc0b712d2612f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-0449fc7cc0b712d2612f.mp4"
   },
   {
     "id": "d9aec5dc398188bbe585",
@@ -32899,7 +32899,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -32945,7 +32945,7 @@
       },
       "evidence": "/dtu-bench/evidence/141b4f119ac33bb28b38.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-141b4f119ac33bb28b38.mp4"
   },
   {
     "id": "29ae9d61ab202f57e3c6",
@@ -33360,7 +33360,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -33411,7 +33411,7 @@
       },
       "evidence": "/dtu-bench/evidence/1341dd5f9ad159038b67.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-1341dd5f9ad159038b67.mp4"
   },
   {
     "id": "a3e09476988a1b38a492",
@@ -33766,7 +33766,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -33817,7 +33817,7 @@
       },
       "evidence": "/dtu-bench/evidence/048dfbf2ed551e0d0001.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-1/episode-048dfbf2ed551e0d0001.mp4"
   },
   {
     "id": "3534875a0d5a56615be7",
@@ -34583,7 +34583,7 @@
     "groups": [
       "07 Order revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_10",
@@ -34639,7 +34639,7 @@
       },
       "evidence": "/dtu-bench/evidence/03bbe3f88aa4b1c2f22b.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-03bbe3f88aa4b1c2f22b.mp4"
   },
   {
     "id": "3d6fab8bd95ebb6008c5",
@@ -34709,7 +34709,7 @@
     "groups": [
       "07 Order revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_10",
@@ -34765,7 +34765,7 @@
       },
       "evidence": "/dtu-bench/evidence/04b38943ba6386d27658.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-04b38943ba6386d27658.mp4"
   },
   {
     "id": "21fb7c46ca455e67348e",
@@ -35383,7 +35383,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -35429,7 +35429,7 @@
       },
       "evidence": "/dtu-bench/evidence/0dd736effc9973a8df1d.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0dd736effc9973a8df1d.mp4"
   },
   {
     "id": "d2799a2b85dfe2377ac1",
@@ -35542,7 +35542,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -35588,7 +35588,7 @@
       },
       "evidence": "/dtu-bench/evidence/053589ab9addeaca3863.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-053589ab9addeaca3863.mp4"
   },
   {
     "id": "a83e028ced351f1dd294",
@@ -36231,7 +36231,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -36277,7 +36277,7 @@
       },
       "evidence": "/dtu-bench/evidence/0d1e14475f21eacad266.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0d1e14475f21eacad266.mp4"
   },
   {
     "id": "87724c5ba6ec14fbb080",
@@ -36920,7 +36920,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -36966,7 +36966,7 @@
       },
       "evidence": "/dtu-bench/evidence/00544f3ef8b71e50e783.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-00544f3ef8b71e50e783.mp4"
   },
   {
     "id": "4d7873fd658e1bb4775f",
@@ -37079,7 +37079,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -37125,7 +37125,7 @@
       },
       "evidence": "/dtu-bench/evidence/076fb4e1071b18b924c7.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-076fb4e1071b18b924c7.mp4"
   },
   {
     "id": "ccda2d35c87a42ad108c",
@@ -37344,7 +37344,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -37390,7 +37390,7 @@
       },
       "evidence": "/dtu-bench/evidence/07f7fd02c85453b03f04.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-07f7fd02c85453b03f04.mp4"
   },
   {
     "id": "6863525d87e123ec40e0",
@@ -37609,7 +37609,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -37655,7 +37655,7 @@
       },
       "evidence": "/dtu-bench/evidence/142935163764013702e7.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-142935163764013702e7.mp4"
   },
   {
     "id": "d7e5bbab2e67415d5d95",
@@ -38510,7 +38510,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -38556,7 +38556,7 @@
       },
       "evidence": "/dtu-bench/evidence/0d903870884fef466342.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0d903870884fef466342.mp4"
   },
   {
     "id": "d058530ebc82d2f20361",
@@ -38881,7 +38881,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -38927,7 +38927,7 @@
       },
       "evidence": "/dtu-bench/evidence/17645ca0b84b5570cbe7.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-17645ca0b84b5570cbe7.mp4"
   },
   {
     "id": "9e8f5e9d77665e7e7243",
@@ -40259,7 +40259,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -40305,7 +40305,7 @@
       },
       "evidence": "/dtu-bench/evidence/0f99b3dd7098b2584837.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0f99b3dd7098b2584837.mp4"
   },
   {
     "id": "200991787fe9b157f20c",
@@ -40471,7 +40471,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -40517,7 +40517,7 @@
       },
       "evidence": "/dtu-bench/evidence/048929586e0ed7982c57.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-048929586e0ed7982c57.mp4"
   },
   {
     "id": "4883fb75bb85f76dc07f",
@@ -40630,7 +40630,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -40676,7 +40676,7 @@
       },
       "evidence": "/dtu-bench/evidence/1756e34ccd76494088b3.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-1756e34ccd76494088b3.mp4"
   },
   {
     "id": "83e92f98e45bc76b6735",
@@ -42326,7 +42326,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -42372,14 +42372,14 @@
       },
       "evidence": "/dtu-bench/evidence/01302579eb42f25a12bb.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-01302579eb42f25a12bb.mp4"
   },
   {
     "id": "0625fc3d18be2c8d1f5d",
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -42425,7 +42425,7 @@
       },
       "evidence": "/dtu-bench/evidence/0625fc3d18be2c8d1f5d.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0625fc3d18be2c8d1f5d.mp4"
   },
   {
     "id": "f121a61884dacf8cc9fb",
@@ -42803,7 +42803,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -42849,14 +42849,14 @@
       },
       "evidence": "/dtu-bench/evidence/01c8a9f78270ed326058.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-01c8a9f78270ed326058.mp4"
   },
   {
     "id": "089454c8f245d2398f46",
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -42902,7 +42902,7 @@
       },
       "evidence": "/dtu-bench/evidence/089454c8f245d2398f46.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-089454c8f245d2398f46.mp4"
   },
   {
     "id": "3f1e19cf363e612e1336",
@@ -43121,7 +43121,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -43167,7 +43167,7 @@
       },
       "evidence": "/dtu-bench/evidence/0aab31173105e252d268.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0aab31173105e252d268.mp4"
   },
   {
     "id": "32557eb09966b903aaf2",
@@ -43333,7 +43333,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -43379,7 +43379,7 @@
       },
       "evidence": "/dtu-bench/evidence/13dc5822268ecb8fb2da.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-13dc5822268ecb8fb2da.mp4"
   },
   {
     "id": "30b73326efa80dbd438f",
@@ -43863,7 +43863,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -43909,7 +43909,7 @@
       },
       "evidence": "/dtu-bench/evidence/1711000bf3014f39aa9b.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-1711000bf3014f39aa9b.mp4"
   },
   {
     "id": "937727902af151d4afe3",
@@ -45063,7 +45063,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -45114,7 +45114,7 @@
       },
       "evidence": "/dtu-bench/evidence/07d8ede37c45c5e92811.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-07d8ede37c45c5e92811.mp4"
   },
   {
     "id": "33289429f549cf3b1d48",
@@ -46085,7 +46085,7 @@
     "groups": [
       "08 Light-WAM matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "Light-WAM",
       "suite": "libero_object",
@@ -46131,7 +46131,7 @@
       },
       "evidence": "/dtu-bench/evidence/1048dba9c939052a583b.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-1048dba9c939052a583b.mp4"
   },
   {
     "id": "6f0ea088088182e5508c",
@@ -46527,7 +46527,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -46573,7 +46573,7 @@
       },
       "evidence": "/dtu-bench/evidence/000c75e8ce6e732c758c.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-000c75e8ce6e732c758c.mp4"
   },
   {
     "id": "f53829cf13b4b0230b5c",
@@ -46845,7 +46845,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -46891,14 +46891,14 @@
       },
       "evidence": "/dtu-bench/evidence/00a03002d941ef260c9e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-00a03002d941ef260c9e.mp4"
   },
   {
     "id": "107ed1dc916bc124b36a",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -46944,14 +46944,14 @@
       },
       "evidence": "/dtu-bench/evidence/107ed1dc916bc124b36a.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-107ed1dc916bc124b36a.mp4"
   },
   {
     "id": "015e8e104d726af1e7fb",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -46997,14 +46997,14 @@
       },
       "evidence": "/dtu-bench/evidence/015e8e104d726af1e7fb.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-015e8e104d726af1e7fb.mp4"
   },
   {
     "id": "0c4a6de8f100e2d380b7",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_10",
@@ -47050,7 +47050,7 @@
       },
       "evidence": "/dtu-bench/evidence/0c4a6de8f100e2d380b7.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0c4a6de8f100e2d380b7.mp4"
   },
   {
     "id": "bf47865d3756c3eb563c",
@@ -47481,7 +47481,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -47527,14 +47527,14 @@
       },
       "evidence": "/dtu-bench/evidence/088d63b68a5575140a25.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-088d63b68a5575140a25.mp4"
   },
   {
     "id": "0b28d30ff488cdf928a7",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -47580,7 +47580,7 @@
       },
       "evidence": "/dtu-bench/evidence/0b28d30ff488cdf928a7.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0b28d30ff488cdf928a7.mp4"
   },
   {
     "id": "d858a6b9b8d005d8701f",
@@ -47746,7 +47746,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -47792,7 +47792,7 @@
       },
       "evidence": "/dtu-bench/evidence/0fab2311be2ca7dadc17.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0fab2311be2ca7dadc17.mp4"
   },
   {
     "id": "50794289ef973da5fd93",
@@ -47905,7 +47905,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_object",
@@ -47951,7 +47951,7 @@
       },
       "evidence": "/dtu-bench/evidence/14ebb7821cce0923d36f.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-14ebb7821cce0923d36f.mp4"
   },
   {
     "id": "62e645636ac036b5bc67",
@@ -48170,7 +48170,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -48216,7 +48216,7 @@
       },
       "evidence": "/dtu-bench/evidence/147960ad507b9d8f7d8a.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-147960ad507b9d8f7d8a.mp4"
   },
   {
     "id": "3b1299e512921c78adbb",
@@ -48329,7 +48329,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -48375,14 +48375,14 @@
       },
       "evidence": "/dtu-bench/evidence/12f253d1805948b3b064.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-12f253d1805948b3b064.mp4"
   },
   {
     "id": "13c2fe5e6b57a59c6aef",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_spatial",
@@ -48428,7 +48428,7 @@
       },
       "evidence": "/dtu-bench/evidence/13c2fe5e6b57a59c6aef.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-13c2fe5e6b57a59c6aef.mp4"
   },
   {
     "id": "302c149099d734f55ed4",
@@ -49389,7 +49389,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_10",
@@ -49435,7 +49435,7 @@
       },
       "evidence": "/dtu-bench/evidence/0a55e0dc8105ba23b0ab.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0a55e0dc8105ba23b0ab.mp4"
   },
   {
     "id": "659fec2af81576a1f8c6",
@@ -49919,7 +49919,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -49965,7 +49965,7 @@
       },
       "evidence": "/dtu-bench/evidence/05f0292b0eefa5a8d076.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-05f0292b0eefa5a8d076.mp4"
   },
   {
     "id": "de66a758b4c6a809a9e0",
@@ -50396,7 +50396,7 @@
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -50442,14 +50442,14 @@
       },
       "evidence": "/dtu-bench/evidence/0bd3baab1135febaffec.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0bd3baab1135febaffec.mp4"
   },
   {
     "id": "109b5216a5fa997d4fc4",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -50495,14 +50495,14 @@
       },
       "evidence": "/dtu-bench/evidence/109b5216a5fa997d4fc4.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-109b5216a5fa997d4fc4.mp4"
   },
   {
     "id": "09bab9ea218925e747aa",
     "groups": [
       "01 Matched state / 300 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -50548,7 +50548,7 @@
       },
       "evidence": "/dtu-bench/evidence/09bab9ea218925e747aa.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-09bab9ea218925e747aa.mp4"
   },
   {
     "id": "75a00a9bef1acab00cbd",
@@ -54689,7 +54689,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -54735,7 +54735,7 @@
       },
       "evidence": "/dtu-bench/evidence/02a926fe6c69006f4c32.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-02a926fe6c69006f4c32.mp4"
   },
   {
     "id": "ad694d9b5e2b1ebad32e",
@@ -54901,7 +54901,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_object",
@@ -54947,14 +54947,14 @@
       },
       "evidence": "/dtu-bench/evidence/0200d3361f095df0d7cd.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0200d3361f095df0d7cd.mp4"
   },
   {
     "id": "0820e4fb08348b50d50b",
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -55000,7 +55000,7 @@
       },
       "evidence": "/dtu-bench/evidence/0820e4fb08348b50d50b.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0820e4fb08348b50d50b.mp4"
   },
   {
     "id": "9dd3ad44b414075780c5",
@@ -55060,7 +55060,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -55106,7 +55106,7 @@
       },
       "evidence": "/dtu-bench/evidence/0c1607c706c6fc431749.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0c1607c706c6fc431749.mp4"
   },
   {
     "id": "9a950e9d4157054e37e7",
@@ -55272,7 +55272,7 @@
     "groups": [
       "02 Behavior attribution / 600 actions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "dm05",
       "suite": "libero_spatial",
@@ -55318,7 +55318,7 @@
       },
       "evidence": "/dtu-bench/evidence/11ff56addd039083415e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-11ff56addd039083415e.mp4"
   },
   {
     "id": "45d18714322ef1495873",
@@ -55574,7 +55574,7 @@
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -55625,14 +55625,14 @@
       },
       "evidence": "/dtu-bench/evidence/0335538d54af7760df5e.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0335538d54af7760df5e.mp4"
   },
   {
     "id": "00058042675f1534c378",
     "groups": [
       "05 PI0 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_goal",
@@ -55683,7 +55683,7 @@
       },
       "evidence": "/dtu-bench/evidence/00058042675f1534c378.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-00058042675f1534c378.mp4"
   },
   {
     "id": "ea8f9cdce4b8615fcd00",
@@ -56676,7 +56676,7 @@
     "groups": [
       "06 PI05 paired revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05",
       "suite": "libero_goal",
@@ -56727,7 +56727,7 @@
       },
       "evidence": "/dtu-bench/evidence/0e30a732fa37b17f7583.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0e30a732fa37b17f7583.mp4"
   },
   {
     "id": "b7b3f91e19cb9bd4db9a",
@@ -56797,7 +56797,7 @@
     "groups": [
       "07 Order revisions"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi0",
       "suite": "libero_10",
@@ -56853,7 +56853,7 @@
       },
       "evidence": "/dtu-bench/evidence/03bb35e88b0bfc0037f2.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-03bb35e88b0bfc0037f2.mp4"
   },
   {
     "id": "dee40a338f59b463cd0c",
@@ -57049,7 +57049,7 @@
     "groups": [
       "08 Light-WAM matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "Light-WAM",
       "suite": "libero_spatial",
@@ -57095,7 +57095,7 @@
       },
       "evidence": "/dtu-bench/evidence/06d9f73eb9c95270e000.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-06d9f73eb9c95270e000.mp4"
   },
   {
     "id": "e2c78208f6d804b5cd7f",
@@ -57208,7 +57208,7 @@
     "groups": [
       "08 Light-WAM matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "Light-WAM",
       "suite": "libero_10",
@@ -57249,7 +57249,7 @@
       },
       "evidence": "/dtu-bench/evidence/0c44eeb36389322fff14.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0c44eeb36389322fff14.mp4"
   },
   {
     "id": "fe3656f38156cb749721",
@@ -57521,7 +57521,7 @@
     "groups": [
       "10 Physical feasibility witnesses"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "physical reference",
       "suite": "libero_goal",
@@ -57567,7 +57567,7 @@
       },
       "evidence": "/dtu-bench/evidence/0f8ae0fed7ecdca79405.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-0f8ae0fed7ecdca79405.mp4"
   },
   {
     "id": "4533c57008a33ff81abb",
@@ -57804,7 +57804,7 @@
     "groups": [
       "09 CAG-VA matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05 + CAG-VA",
       "suite": "libero_10",
@@ -57850,7 +57850,7 @@
       },
       "evidence": "/dtu-bench/evidence/04a48e1aa8e24f32fa84.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-04a48e1aa8e24f32fa84.mp4"
   },
   {
     "id": "95415e2e39bda84a7a4d",
@@ -57963,7 +57963,7 @@
     "groups": [
       "09 CAG-VA matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05 + CAG-VA",
       "suite": "libero_spatial",
@@ -58009,7 +58009,7 @@
       },
       "evidence": "/dtu-bench/evidence/02bd6ef61059bec063ad.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-02bd6ef61059bec063ad.mp4"
   },
   {
     "id": "8c30ab782209e4dc5e1c",
@@ -58069,7 +58069,7 @@
     "groups": [
       "09 CAG-VA matched state"
     ],
-    "status": "UPLOAD_PENDING",
+    "status": "READY",
     "branch": {
       "policy": "pi05 + CAG-VA",
       "suite": "libero_10",
@@ -58115,7 +58115,7 @@
       },
       "evidence": "/dtu-bench/evidence/00935c182b7f91556623.json"
     },
-    "video": null
+    "video": "https://github.com/yanranjiang/yanranjiang.github.io/releases/download/dtu-diagnostics-20261102-episodes-2/episode-00935c182b7f91556623.mp4"
   },
   {
     "id": "f0702cb98da69062dd55",
