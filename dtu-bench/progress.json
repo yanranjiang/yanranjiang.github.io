@@ -1,13 +1,12 @@
 {
-  "expected_videos": 1719,
-  "verified_uploaded_videos": 1332,
-  "remaining_videos": 387,
-  "comparisons": {
-    "READY": 676,
-    "REVIEW_REQUIRED": 35
-  },
-  "individual_records": 1108,
-  "individual_videos": 656,
-  "upload_complete": false,
-  "note": "SHA-256 and byte size checked against GitHub assets. Upload-pending and review-required records are not robot failures."
+  "expected": 1719,
+  "verified": 1719,
+  "missing": [],
+  "invalid": [],
+  "unexpected": [],
+  "repository_private": true,
+  "pages_enabled": false,
+  "comparison_videos": 676,
+  "individual_videos": 1043,
+  "total_video_bytes": 1798069326
 }

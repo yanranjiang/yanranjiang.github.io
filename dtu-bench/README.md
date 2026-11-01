@@ -1,5 +1,7 @@
 # DTU-Bench diagnostic reader
 
+> **Private archive.** All 1,719 videos are uploaded and checksum-verified. GitHub Pages is disabled; the formerly public project URL is offline. Download videos from Releases while signed in with repository access. The local diagnostic gallery remains available.
+
 Project section: https://yanranjiang.github.io/dtu-bench/
 
 This public reader presents existing annotated diagnostic recordings, organized
