@@ -4,9 +4,10 @@
   "missing": [],
   "invalid": [],
   "unexpected": [],
-  "repository_private": true,
-  "pages_enabled": false,
+  "repository_private": false,
+  "pages_enabled": true,
   "comparison_videos": 676,
   "individual_videos": 1043,
-  "total_video_bytes": 1798069326
+  "total_video_bytes": 1798069326,
+  "main_benchmark_videos": 2
 }
